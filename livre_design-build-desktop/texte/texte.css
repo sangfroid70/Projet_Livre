@@ -1,0 +1,21 @@
+body {
+    font-family:'Ubuntu';
+    font-size:11pt;
+    font-weight:400;
+    font-style:normal;
+    color : #FF6666;
+}
+
+p, li {
+    white-space: pre-wrap;
+}
+
+p {
+    -qt-block-indent:0;
+    text-indent:0px;
+}
+
+img {
+    float : left;
+    margin : 5px;
+}

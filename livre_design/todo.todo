@@ -1,0 +1,21 @@
+Hello !
+
+J'ai regardé un peu tout ça, c'est plutôt sympa niveau design et efficacité :)
+Pour ce qui est des classes (personnage, sac, etc...) pas de soucis, je pense que ça sera très rapide à remplacer ^^
+Les résultats du dé qui défilent donnent un super effet, je pense qu'il faut garder cette idée.
+
+Pour faire défiler le texte, est-ce qu'il serait possible de rendre ça plus interactif (en appuyant sur la flèche bas par exemple) ? Sinon l'agencement profil/texte/boutons est bien.
+
+Par contre, la fenêtre de jeu (avec le déroulement du combat) ne peut pas être la même que celle de texte. Est-ce qu'avec Qt c'est possible de "switcher" entre plusieurs fenêtres ? (d'abord celle du texte s'ouvre, puis elle laisse place à l'interface de combat, puis éventuellement un écran avec les gains, et ensuite retour à une fenêtre de texte avec la fin du texte et le déplacement vers le paragraphe suivant). si on arrive à faire ce switch, ça serait super ! (cela permettrait aussi d'ouvrir une fenêtre avec une carte du monde, par exemple)
+
+La seule question que je me pose, c'est comment intégrer les illustrations ? On ne peut pas réserver un espace dans la fenêtre de texte car tout les textes n'ont pas d'illustration associée (ça ferait un vide assez laid), mais si on ajoute une autre fenêtre à côté ça ne risque pas de faire génial non plus... Ce qui pourrait aller, c'est de différencier fenêtre-texte/fenêtre-texte-illus. La fenêtre texte reste comme dans ta démo et la fenêtre illus s'ouvre plus large avec ce qu'il y a dans une fenêtre texte normal, et à côté une illustrations. On aurait des fenêtres de même hauteur mais de largeur différente.
+
+Enfin, c'est juste des idées à tester, on verra ce que ça donne concrètement ^^
+Je vais avoir à nouveau accès à linux à partir de ce week-end donc je pourrais adapter le texte de la maquette et t'envoyer tout ça. En attendant, j'ai mis en pièce jointe deux illustrations pour essayer de les incorporer au jeu : celle des deux corbeaux (§27) et celle du combat contre Jormungandr (j'ai oublié le paragraphe).
+
+Autre question : j'ai appris les bases du CSS récemment (pour le design de sites web), je ne sais pas si je peux l'utiliser avec C++,Qt pour le design (typo, couleurs, etc...) Tu sais si c'est possible ? Sinon, est-ce que Qt a son propre "langage de design" ?
+
+A plus !
+
+Zoé
+

@@ -1,0 +1,18 @@
+§8
+
+Toujours muet, il se dirige vers le rivage d'un pas rapide. A votre grande surprise, il marche droit vers les flots sans s'arrêter, s'enfonçant dans la mer jusqu'à la taille, puis jusqu'aux épaules, avant de disparaître complètement. Vous fouillez les environs du regard à la recherche d'une arme -les créatures en colère, vous connaissez- et finissez par aller déterrer un petit poteau de bois qui traîne non loin. Après tout, mieux vaut une arme minable que pas d'arme du tout. A peine avez-vous eu le temps de vous munir de cette épée improvisée qu'il revient, une forme dégoulinante dans les bras. Vous reconnaissez sans peine Judith, visiblement inconsciente et partiellement recouverte de longs filaments d'algues bruns, que l'humain-créature dépose à ses pieds  comme on se débarrasserait d'un paquet de vieux chiffons. Il vous fixe ensuite et tend une main impatiente.
+
+Ma bride...
+Ma soeur d'abord ! Répondez-vous, pas dupe.
+
+Elle est vivante, et elle respire. Bien qu'il l'ait visiblement sortie des profondeurs du lac, cette longue apnée ne semble pas la gêner outre mesure et elle est endormie d'un sommeil profond.
+
+Elle va bien, lance la créature avec irritation. Donnez-moi ma bride, maintenant.
+
+Vous froncez les sourcils et examinez l'objet que vous tenez en main - il ressemble à tout sauf à une bride, et votre interlocuteur a l'air de tout sauf d'un cheval. Puis, comme il fait un pas menaçant dans  votre direction, vous jetez la corde emmêlée à ses pieds. Il relève la tête vers vous. Son sourire s'allonge brusquement en un museau animal, sa peau blanchit et vous vous retrouvez à contempler, l'air idiot, une créature mi-homme mi-équidé.
+
+Merci, parvient-il à articuler juste avant de se jeter sur vous.
+
+EACH UISGE 	30PV		ARME : CROCS +1
+
+Si vous parvenez à le battre, allez au 9
